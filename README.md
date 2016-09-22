@@ -1,0 +1,5 @@
+Experiments with Rust
+=====================
+
+My journey with rust for the search of <i>Safety, Speed and Concurrency. :P </i>
+
