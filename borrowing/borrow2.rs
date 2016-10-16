@@ -17,8 +17,7 @@ fn main(){
 	let coloring_book = free_coloring_book;  // claiming ownership
 
 	println!("{:?}", coloring_book);
-
-
+	
 	// println!("Free coloring book looks like:\n {:?}", free_coloring_book);
 	// for i in &free_coloring_book{
 	// 	println!("{}", i);
