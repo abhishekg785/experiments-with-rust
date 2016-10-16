@@ -5,6 +5,10 @@ fn leader() {
     use(&vec);  //borrowing concept
 }
 
-fn use(vec: &Vec<i32) {
+fn use(vec:&Vec<i32) {
 
+}
+
+fn main() {
+    loader();
 }
